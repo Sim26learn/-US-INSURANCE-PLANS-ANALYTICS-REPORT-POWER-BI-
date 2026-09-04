@@ -24,4 +24,7 @@ This project was developed in **Power BI Desktop** to analyze insurance company 
 - **Included**: Data cleaning, modeling, DAX measures, and report creation in Power BI Desktop.  
 - **Not included**: Power BI Service features (publishing, dashboards, alerts, deployment).
 
+- ## Attribution
+*"Data source: Synthea synthetic patient generator, Apache 2.0 license."*
+
 
